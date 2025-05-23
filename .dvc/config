@@ -1,4 +1,4 @@
 [core]
     remote = myremote
-['remote "myremote"']
-    url = remote://mygdrive/dvc-storage
+[cache]
+    type = symlink
